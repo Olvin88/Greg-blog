@@ -3,18 +3,18 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport"
-    content="width=device-width, initial-scaling=1"/>
+    content="width=device-width, initial-scale=1"/>
   <title>Olvin-Blog</title>
 </head>
 <body>
-  <main>
   <header>
-    Olvin Blog
+    <h1>Olvin Blog<h1>
   </header>
-  <h1>My First Coding Experience</h1>
-    <h2><em>(a.k.a. When I Thought I’d Build Instagram in a Week)</em></h2>
+  <main>
+  <h2>My First Coding Experience</h2>
+    <h3><em>(a.k.a. When I Thought I’d Build Instagram in a Week)</em></h3>
 <p>
-The whole <strong><em>"i want to be a programmer"</em></strong> idea started last year, around December. I didn’t even know what kind of programmer I wanted to be — I just wanted to be one. It sounded powerful, like I’d suddenly start talking to computers and building cool stuff out of some <em>wierd, random symbols.</em>
+The whole <strong><em>"i want to be a programmer"</em></strong> idea started last year, around December. I didn’t even know what kind of programmer I wanted to be — I just wanted to be one. It sounded powerful, like I’d suddenly start talking to computers and building cool stuff out of some <em>weird, random symbols.</em>
 </p>
   <p>
 So in <strong>January</strong>, I picked up <strong>Python</strong>. I heard it could do everything: <em>ethical hacking, game development, AI, machine learning</em> — basically the superhero of programming languages. The guy who told me that really sold the dream.
@@ -41,7 +41,7 @@ Then one day, a small drop of wisdom hit me: maybe I should start with something
 When I started with <strong>HTML and CSS</strong>, everything just made sense. I made my first website mock — it wasn’t <em>functional</em>, but it looked decent, and honestly, that was enough <strong>motivation</strong> to make me believe <em>I’d build Instagram by next week</em>.
     </p>
     <p>
-Then <em>JavaScript entered the chat, to define patient</em>.
+Then <em>JavaScript entered the chat, to define patience</em>.
     </p>
     <p>
 That’s when I truly understood what patience means. It’s like <em>HTML and CSS</em> handed me <strong>confidence</strong>, and <em>JavaScript</em> <strong>snatched it</strong> right back.
